@@ -1,6 +1,2 @@
 venv/
-db.sqlite3
-*.pyc
 __pycache__
-cert.key
-cert.crt
